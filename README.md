@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my PhD in neuroscience.
+- 🌱 I’m currently learning how to work with python and matlab for neuroimaging (fMRI)
+- 💬 Ask me about brains, parenting or popsci
+- 😄 Pronouns: whatev
+- ⚡ Fun fact: facts are rarely fun
+
 <!--
 **alice-in-coderland/alice-in-coderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
