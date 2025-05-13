@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my PhD in neuroscience.
+- 🔭 I hold a PhD in Neurobiology.
 - 🌱 I’m currently learning how to work with python and matlab for neuroimaging (fMRI)
 - 💬 Ask me about brains, parenting or popsci
 - 😄 Pronouns: whatev
